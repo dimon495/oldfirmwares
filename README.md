@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Добро пожаловать в репозиторий OldFirmwares!
 
-You can use the [editor on GitHub](https://github.com/dimon495/oldfirmwares/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Здесь вы можете скачать прошивки для старых телефонов 2005-2015 годов выпуска
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Цель проекта
 
-### Markdown
+К сожалению на форумах 4PDA и XDA-developers ссылки на старые прошивки умирают. Наша цель - искать перезаливы во всём интернете и публиковать их сюда
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Скачать прошивку
 
-```markdown
-Syntax highlighted code block
+*Выберите марку своего телефона*
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Как нам помочь и как связаться с нами
 
-**Bold** and _Italic_ and `Code` text
+Вы нам можете помочь:
 
-[Link](url) and ![Image](src)
-```
+* Прошивкой 
+* Донатом (https://new.donatepay.ru/@prosto_dimonich)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*Помочь прошивкой можно прислав её на почту oldfimwares@yandex.ru в таком формате*
 
-### Jekyll Themes
+>Модель телефона,
+>Название прошивки (версия ОС),
+>Ссылка на её тему на 4PDA, XDA или на любом другом форуме,
+>Ссылка на прошивку (залитую вами), также можно ниже прикреплять ссылки на нужные ядра, лаунчеры, и.т.д,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dimon495/oldfirmwares/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Пример письма
 
-### Support or Contact
+>Sony Ericsson Xperia Neo V,
+>PAC-ROM 1.5 (Android 4.4),
+>4PDA https://4pda.ru/showtopic/123456,
+>Прошивка https://yadi.sk/123456,
+>Ядро https://yadi.sk/1234567,
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Для связи с нами используйте E-Mail oldfimwares@yandex.ru
