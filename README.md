@@ -19,7 +19,7 @@
 * Прошивкой 
 * Донатом (https://new.donatepay.ru/@prosto_dimonich)
 
-*Помочь прошивкой можно прислав её на почту oldfimwares@yandex.ru в таком формате*
+*Помочь прошивкой можно прислав её на почту (mailto:oldfimwares@yandex.ru) в таком формате*
 
 >Модель телефона,
 >Название прошивки (версия ОС),
@@ -34,4 +34,4 @@
 >Прошивка https://yadi.sk/123456,
 >Ядро https://yadi.sk/1234567,
 
-Для связи с нами используйте E-Mail oldfimwares@yandex.ru
+Для связи с нами используйте E-Mail (mailto:oldfimwares@yandex.ru)
